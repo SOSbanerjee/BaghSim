@@ -1,7 +1,7 @@
 ;;;;; BaghSim v0.9.0 - Tiger Population Dynamics Model
 ;;;;; Copyright (c) 2024-2026 Dr Indushree Banerjee
 ;;;;; Water Management, Civil Engineering and Geosciences, TU Delft
-;;;;;
+;;;;; https://doi.org/10.5281/zenodo.18554417
 ;;;;; LICENSE AND USAGE TERMS:
 ;;;;; ========================
 ;;;;; This software is provided for EDUCATIONAL AND NON-COMMERCIAL USE ONLY.
