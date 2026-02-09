@@ -14,7 +14,7 @@ All rights reserved.
 
 ### Required Citation
 
-> Banerjee, I., Grimm, V., Qureshi, Q., & Ertsen, M. (2026). BaghSim: Tiger Population Dynamics Model. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Banerjee, I., Grimm, V., Qureshi, Q., & Ertsen, M. (2026). BaghSim: Tiger Population Dynamics Model. Zenodo. https://doi.org/10.5281/zenodo.18554417
 
 ### Required Acknowledgment
 
