@@ -1,5 +1,5 @@
 # BaghSim: Tiger Population Dynamics Model
-#  DOI: 10.5281/zenodo.18554417
+# https://doi.org/10.5281/zenodo.18554417
 
 **Version:** 1.0.0
 **Author:** Dr Indushree Banerjee
