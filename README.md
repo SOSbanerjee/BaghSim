@@ -66,9 +66,9 @@ The model generates:
 
 If you use this model in your research, please cite:
 
-> Banerjee, I., Grimm, V., Qureshi, Q., & Ertsen, M. (2026). BaghSim: Tiger Population Dynamics Model (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Banerjee, I., Grimm, V., Qureshi, Q., & Ertsen, M. (2026). BaghSim: Tiger Population Dynamics Model (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18554417
 
-*(Replace XXXXXXX with your actual Zenodo DOI after upload)*
+*https://doi.org/10.5281/zenodo.18554417*
 
 ## License
 
